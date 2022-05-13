@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bpf_helpers.h": "c",
+        "can.h": "c",
+        "types.h": "c",
+        "sysctl.h": "c",
+        "kernel.h": "c",
+        "complex.h": "c",
+        "fs.h": "c"
+    }
+}
